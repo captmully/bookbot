@@ -1,2 +1,4 @@
 # bookbot
-BookBot is my first project!
+Text file analysis:
+- Word count
+- Char count
